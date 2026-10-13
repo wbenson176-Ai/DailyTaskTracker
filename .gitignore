@@ -1,0 +1,7 @@
+
+tasks.txt
+practice.txt
+__pycache__/
+*.pyc
+.venv/
+venv/
